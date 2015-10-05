@@ -1,2 +1,2 @@
-# Digital-Filter
-A basic simulation of a digital filter
+# Digital-Controller
+A basic simulation of a digital controller
